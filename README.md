@@ -1,8 +1,8 @@
-# <img src="public/favicon.svg" alt="atom" height="24"> zhaolee97<span></span>.com &middot; ![CI Workflow](https://github.com/robertlee903/portfolioactions/workflows/ci.yml/badge.svg) [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/zhaolee97/deploys)
+# <img src="public/favicon.svg" alt="atom" height="24"> zhaolee97<span></span>.com &middot; [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/zhaolee97/deploys)
 
 The second iteration of [zhaolee97.com](https://www.zhaolee97.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
 
-<img float="left" height="370" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
+<img float="left" height="370" width="70%" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" width="20%" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
 
 I have designed this website to be simple and accessible. Dynamic particles create an experience that is interactive for visitors. The site offers two themes via a toggle, a dark theme (default) and a light theme. Once toggled, the selected theme should persist between tabs, windows, and page reloads.
 
