@@ -4,12 +4,12 @@ import { Email, GitHub, LinkedIn, Resume } from 'icons';
 
 const config: Config = {
   name: {
-    display: 'Zhao Lee',
+    display: 'Zhao(Robert) Lee',
     aria: 'My name is Zhao Lee',
   },
   title: {
-    display: 'Software Engineer',
-    aria: 'I am a software engineer',
+    display: 'Full-stack Web Developer',
+    aria: 'I am a Full-stack Web Developer',
   },
   buttons: [
     {
@@ -22,7 +22,7 @@ const config: Config = {
       display: 'LinkedIn',
       aria: 'Visit my LinkedIn profile',
       icon: <LinkedIn />,
-      href: 'https://www.linkedin.com/in/adam-alston/',
+      href: 'https://www.linkedin.com/in/zhaolee97/',
     },
     {
       display: 'Resume',

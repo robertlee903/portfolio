@@ -68,7 +68,7 @@ describe('application tests', () => {
   it('should render creator', () => {
     const element = screen.getByTestId('creator');
 
-    checkContent(element, /^Zhao Lee$/, 'https://www.zhaolee97.com');
+    checkContent(element, /^Zhao Lee$/, 'https://www.https://zhaolee97.netlify.app/');
   });
 
   it('should render link to source code', () => {

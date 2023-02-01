@@ -1,6 +1,6 @@
 # <img src="public/favicon.svg" alt="atom" height="24"> zhaolee97<span></span>.com &middot; [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/zhaolee97/deploys)
 
-The second iteration of [zhaolee97.com](https://www.zhaolee97.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
+The second iteration of [https://zhaolee97.netlify.app/](https://www.https://zhaolee97.netlify.app/) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
 
 <img float="left" height="370" width="71%" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" width="23%" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
 
@@ -10,7 +10,7 @@ Mobile support for the site ranges from 4 in. displays through 6.7 in. all the w
 
 ## <img src="https://git.io/JUnUc" height="18"> Open Source
 
-I made this website open source under the assumption that others would use the code to create their own websites. I only ask that this code be used with attribution as a significant amount of time was spent writing and optimizing it. Please give proper credit by linking back to [zhaolee97.com](https://www.zhaolee97.com). Thanks!
+I made this website open source under the assumption that others would use the code to create their own websites. I only ask that this code be used with attribution as a significant amount of time was spent writing and optimizing it. Please give proper credit by linking back to [https://zhaolee97.netlify.app/](https://www.https://zhaolee97.netlify.app/). Thanks!
 
 <details>
   <summary><b>Install &amp; Setup</b></summary>
