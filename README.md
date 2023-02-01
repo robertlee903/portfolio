@@ -2,7 +2,7 @@
 
 The second iteration of [zhaolee97.com](https://www.zhaolee97.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
 
-<img float="left" height="370" width="75%" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" width="25%" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
+<img float="left" height="370" width="74%" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" width="24%" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
 
 I have designed this website to be simple and accessible. Dynamic particles create an experience that is interactive for visitors. The site offers two themes via a toggle, a dark theme (default) and a light theme. Once toggled, the selected theme should persist between tabs, windows, and page reloads.
 
