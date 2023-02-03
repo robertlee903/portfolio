@@ -4,7 +4,7 @@ import { Email, GitHub, LinkedIn, Resume } from 'icons';
 
 const config: Config = {
   name: {
-    display: 'Zhao(Robert) Lee',
+    display: 'Zhao Lee',
     aria: 'My name is Zhao Lee',
   },
   title: {
@@ -28,7 +28,7 @@ const config: Config = {
       display: 'Resume',
       aria: 'View my resume in Google Drive',
       icon: <Resume />,
-      href: 'https://drive.google.com/drive/folders/10k8NWflSYQ5laPzuWtK3bzUKzuOeas8i/',
+      href: 'https://drive.google.com/drive/folders/1yBaTjq95LNH2VRg-AKqy0PduY3Xqh7pN/',
     },
     {
       display: 'Email',

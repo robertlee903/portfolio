@@ -38,8 +38,8 @@ const Footer: React.FC = () => {
           data-v2="creator"
           theme={theme}
           href="#"
-          aria-label="Robert's website"
-          title="A link to Robert's personal website"
+          aria-label="Zhao's website"
+          title="A link to Zhao's personal website"
         >
           {'Zhao Lee'}
         </F.Link>
